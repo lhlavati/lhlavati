@@ -22,6 +22,11 @@ I am currently enrolled in a Frontend Development course, where I am sharpening 
 - Learning new technologies.
 - Currently open to work.
 
+### 🥅 Hobbies
+- I love playing football and other sports
+- Hanging out and playing games with friends & family
+- Exploring new technologies and tech stuff
+
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/luka-hlavati](https://www.linkedin.com/in/luka-hlavati-a937981b9/) 
 - **E-mail:** *lukahlavati@gmail.com*
